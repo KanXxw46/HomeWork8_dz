@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HomeWork8_Dz\HomeWork8_Dz\bin\Debug\netcoreapp3.1\HomeWork8_Dz.exe
+C:\Users\user\source\repos\HomeWork8_Dz\HomeWork8_Dz\bin\Debug\netcoreapp3.1\HomeWork8_Dz.deps.json
+C:\Users\user\source\repos\HomeWork8_Dz\HomeWork8_Dz\bin\Debug\netcoreapp3.1\HomeWork8_Dz.runtimeconfig.json
+C:\Users\user\source\repos\HomeWork8_Dz\HomeWork8_Dz\bin\Debug\netcoreapp3.1\HomeWork8_Dz.runtimeconfig.dev.json
+C:\Users\user\source\repos\HomeWork8_Dz\HomeWork8_Dz\bin\Debug\netcoreapp3.1\HomeWork8_Dz.dll
+C:\Users\user\source\repos\HomeWork8_Dz\HomeWork8_Dz\bin\Debug\netcoreapp3.1\HomeWork8_Dz.pdb
+C:\Users\user\source\repos\HomeWork8_Dz\HomeWork8_Dz\obj\Debug\netcoreapp3.1\HomeWork8_Dz.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HomeWork8_Dz\HomeWork8_Dz\obj\Debug\netcoreapp3.1\HomeWork8_Dz.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HomeWork8_Dz\HomeWork8_Dz\obj\Debug\netcoreapp3.1\HomeWork8_Dz.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HomeWork8_Dz\HomeWork8_Dz\obj\Debug\netcoreapp3.1\HomeWork8_Dz.AssemblyInfo.cs
+C:\Users\user\source\repos\HomeWork8_Dz\HomeWork8_Dz\obj\Debug\netcoreapp3.1\HomeWork8_Dz.dll
+C:\Users\user\source\repos\HomeWork8_Dz\HomeWork8_Dz\obj\Debug\netcoreapp3.1\HomeWork8_Dz.pdb
+C:\Users\user\source\repos\HomeWork8_Dz\HomeWork8_Dz\obj\Debug\netcoreapp3.1\HomeWork8_Dz.genruntimeconfig.cache
